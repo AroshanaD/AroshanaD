@@ -26,11 +26,11 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 ## Stats 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true&theme=radical&show_owner=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD&theme=radical&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD&theme=radical&layout=compact&show_owner=true" />
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AroshanaD)  
