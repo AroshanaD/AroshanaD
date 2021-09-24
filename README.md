@@ -28,9 +28,7 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AroshanaD)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true&theme=highcontrast)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AroshanaD)  
 
