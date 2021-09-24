@@ -24,11 +24,14 @@ I am currently an undergraduate @University of Colombo School of Computing.
 - 🔭 I’m currently working on https://github.com/WeCare-Online-Clinic 
 - 🌱 I’m currently learning React / React Native / Spring 
 
-## Stats  
+## Stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD&theme=radical&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true&theme=radical)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AroshanaD)  
 
