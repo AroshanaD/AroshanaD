@@ -26,7 +26,7 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 ## Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD&WeCare-Online-Clinic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AroshanaD)(https://github-readme-stats.vercel.app/api/top-langs/?username=WeCare-Online-Clinic)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AroshanaD&show_icons=true)  
 
