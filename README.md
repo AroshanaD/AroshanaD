@@ -9,6 +9,7 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 * Data Science
 * Machine Learning
+* Web Development
 
 ## Languages & Tools
 
