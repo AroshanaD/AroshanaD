@@ -21,8 +21,7 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 ## Current Status
 
-- 🔭 I’m currently working on https://github.com/WeCare-Online-Clinic 
-- 🌱 I’m currently learning React / React Native / Spring 
+- 🔭 I’m currently learning and working on Data Analysis
 
 ## Stats 
 <a href="">
