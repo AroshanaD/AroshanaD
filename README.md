@@ -21,7 +21,7 @@ I am currently an undergraduate @University of Colombo School of Computing.
 
 ## Current Status
 
-- 🔭 I’m currently learning and working on Data Analysis
+- 🔭 I’m currently learning Machine Learning and Data Analytics
 
 ## Stats 
 <a href="">
