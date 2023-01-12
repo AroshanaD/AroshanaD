@@ -2,7 +2,7 @@
 I am currently an undergraduate @University of Colombo School of Computing.
 
 ## Social
-[Portfolio Website](https://aroshanad.github.io/portfolio))
+[Portfolio](https://aroshanad.github.io/portfolio)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AroshanaD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/aroshanad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dasun-aroshana-2a7727189/)
 
 ## Interests
