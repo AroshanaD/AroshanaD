@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dasun Aroshana
-I am currently an undergraduate @University of Colombo School of Computing.
+I am currently working as a SSE @Enactor.
 
 ## Social
 [Portfolio](https://aroshanad.github.io/portfolio)
